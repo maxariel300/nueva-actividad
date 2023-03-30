@@ -1,0 +1,23 @@
+# Primer Algortimo
+- 1 Entrar al baño
+- 2 Prender la luz del baño
+- 3 Quitarse la vestimenta 
+- 4 Quitarse accesorios puestos
+- 5 Abrir la canilla 
+- 6 Regular la temperatura del agua
+- 7 Meterse dentro de la ducha
+- 8 Mojarse el cuerpo
+- 9 Agarrar el shampoo
+- 10 Aplicar sobre el pelo 
+- 11 Enjabonarse y restregar
+- 12 Enjugarse
+- 13 Agarrar el jabon
+- 14 Aplicar en toda el area del cuerpo
+- 15 Enjuagarse 
+- 16 Cerrar la canilla
+- 17 Salir de la ducha 
+- 18 Secarse con la toalla
+- 19 Vestirse con ropa nueva
+- 20 Agarrar los accesorios 
+- 21 Apagar la luz
+- 22 Salir del baño
